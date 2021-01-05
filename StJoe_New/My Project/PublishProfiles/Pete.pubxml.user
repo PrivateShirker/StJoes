@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\pete\OneDrive\Published Apps\StJoe</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="bin/StJoe_New.dll">
+      <publishTime>01/05/2021 12:58:19</publishTime>
+    </File>
+    <File Include="bin/StJoe_New.pdb">
+      <publishTime>01/05/2021 12:58:18</publishTime>
+    </File>
+    <File Include="bin/StJoe_New.xml">
+      <publishTime>01/05/2021 12:58:18</publishTime>
+    </File>
+    <File Include="bulletin 12-13-2020.pdf">
+      <publishTime>12/22/2020 12:08:56</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>01/05/2021 12:58:16</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="XMas2020.pdf">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Bulletins/Bulletin 1-10-2021.pdf">
+      <publishTime>01/05/2021 12:54:00</publishTime>
+    </File>
+    <File Include="_Bulletins/Bulletin 1-3-2021.pdf">
+      <publishTime>01/02/2021 13:02:00</publishTime>
+    </File>
+    <File Include="_Bulletins/Bulletin 11-29-2020.pdf">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Bulletins/bulletin 12-13-2020.pdf">
+      <publishTime>12/11/2020 17:40:31</publishTime>
+    </File>
+    <File Include="_Bulletins/Bulletin 12-20-2020.pdf">
+      <publishTime>12/22/2020 12:07:00</publishTime>
+    </File>
+    <File Include="_Bulletins/Bulletin 12-27-2020.pdf">
+      <publishTime>12/22/2020 12:05:00</publishTime>
+    </File>
+    <File Include="_Bulletins/Bulletin 12-6-2020.pdf">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_1-19.pdf">
+      <publishTime>11/04/2020 14:35:28</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_1-26.pdf">
+      <publishTime>11/04/2020 14:35:28</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_1-5.pdf">
+      <publishTime>11/04/2020 14:35:28</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_12-1.pdf">
+      <publishTime>12/03/2019 18:23:15</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_12-29.pdf">
+      <publishTime>01/02/2020 11:36:56</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_12-8.pdf">
+      <publishTime>01/02/2020 13:45:30</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_2-16.pdf">
+      <publishTime>11/04/2020 14:35:28</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_2-2.pdf">
+      <publishTime>11/04/2020 14:35:28</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_2-23.pdf">
+      <publishTime>11/04/2020 14:35:28</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_2-9.pdf">
+      <publishTime>11/04/2020 14:35:28</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_3-1.pdf">
+      <publishTime>11/04/2020 14:35:28</publishTime>
+    </File>
+    <File Include="_Images/Black_Joe.jpg">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/blue-calendar.png">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Bulletin.jpg">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Christmas.png">
+      <publishTime>01/02/2020 13:45:30</publishTime>
+    </File>
+    <File Include="_Images/Church.jpg">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/DeaconJack.jpg">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Fashion.png">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/FatherJustin.jpg">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Garden/Garden1.jpg">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Garden/Garden_1.png">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Garden/Garden_10.png">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Garden/Garden_11.png">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Garden/Garden_12.png">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Garden/Garden_13.png">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Garden/Garden_14.png">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Garden/Garden_2.png">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Garden/Garden_3.png">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Garden/Garden_4.png">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Garden/Garden_5.png">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Garden/Garden_6.png">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Garden/Garden_7.png">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Garden/Garden_8.png">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Garden/Garden_9.png">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Ham Dinner.png">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Ham.png">
+      <publishTime>01/02/2020 13:45:30</publishTime>
+    </File>
+    <File Include="_Images/Links.jpg">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Ministries/altarServer.jpg">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Ministries/Bereavement.jpg">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Ministries/Choir.jpg">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Ministries/ChoirPic.jpg">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Ministries/Eucharistic Minister1.jpg">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Ministries/FoodPantry.jpg">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Ministries/Garden1.jpg">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Ministries/Healing.jpg">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Ministries/Lector.jpg">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Ministries/Minister_Sick.jpg">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Ministries/ParishClub.jpg">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Ministries/prayer1.jpg">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Ministries/PrayerChain.jpg">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Ministries/PrayerConnection.jpg">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Ministries/ReligiousEd.jpg">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Ministries/Sacristans.jpg">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Ministries/Usher.jpg">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/ParishClub/PC Officers.jpg">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/ParishClub/PC SwearingIn.jpg">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/profile.jpg">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Spaghetti.png">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/Virus.jpg">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Images/XMas2020.png">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_PDFs/2020-01 SJOF Christmas Concert.pdf">
+      <publishTime>01/02/2020 13:45:30</publishTime>
+    </File>
+    <File Include="_PDFs/2020-01 SJOF Ham Dinner.pdf">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_PDFs/2020-02 SJOF Spaghetti Dinner.pdf">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_PDFs/2020-03-07 - Fashion Show Flier 2.pdf">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_PDFs/Calendar.pdf">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_PDFs/Virus.pdf">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_PDFs/XMas2020.pdf">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Scripts/MyScript.js">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Scripts/video.js">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Styles/BasicStyles.css">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+    <File Include="_Styles/myStyles.css">
+      <publishTime>12/22/2020 11:55:01</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

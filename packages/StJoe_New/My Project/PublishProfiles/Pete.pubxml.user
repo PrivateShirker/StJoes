@@ -1,0 +1,409 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\pete\OneDrive\Published Apps\StJoe</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>04/25/2019 09:45:59</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>04/25/2019 09:45:59</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>04/25/2019 09:45:59</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>04/25/2019 09:45:59</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>04/25/2019 09:45:59</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>04/25/2019 09:45:59</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>04/25/2019 09:45:59</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>04/25/2019 09:45:59</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>04/25/2019 09:45:59</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>04/25/2019 09:45:59</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>04/25/2019 09:45:59</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>04/25/2019 09:45:59</publishTime>
+    </File>
+    <File Include="bin/StJoe_New.dll">
+      <publishTime>12/26/2019 16:19:42</publishTime>
+    </File>
+    <File Include="bin/StJoe_New.xml">
+      <publishTime>12/26/2019 16:19:41</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>12/26/2019 15:58:22</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/14/2019 11:33:19</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_10-13.pdf">
+      <publishTime>10/28/2019 12:32:49</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_10-20.pdf">
+      <publishTime>10/28/2019 12:30:40</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_10-27.pdf">
+      <publishTime>10/28/2019 12:26:40</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_11-10.pdf">
+      <publishTime>11/17/2019 11:49:53</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_11-17.pdf">
+      <publishTime>11/17/2019 11:52:00</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_11-24.pdf">
+      <publishTime>12/03/2019 18:19:02</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_11-3.pdf">
+      <publishTime>11/05/2019 10:41:37</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_12-1.pdf">
+      <publishTime>12/03/2019 18:23:15</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_12-8.pdf">
+      <publishTime>12/14/2019 11:31:04</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_APR01_2018.pdf">
+      <publishTime>05/03/2018 12:17:14</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_APR08_2018.pdf">
+      <publishTime>05/03/2018 12:17:14</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_Apr15_2018.pdf">
+      <publishTime>05/14/2018 11:41:59</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_Apr21_2019.pdf">
+      <publishTime>04/25/2019 09:53:26</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_Apr22_2018.pdf">
+      <publishTime>05/03/2018 11:59:27</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_Apr28_2019.pdf">
+      <publishTime>05/02/2019 12:33:22</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_Apr29_2018.pdf">
+      <publishTime>05/03/2018 12:05:24</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_Feb04_2018.pdf">
+      <publishTime>02/18/2018 11:44:13</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_Feb11_2018.pdf">
+      <publishTime>02/18/2018 11:52:59</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_Feb18_2016.pdf">
+      <publishTime>02/18/2018 11:33:50</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_Feb18_2018.pdf">
+      <publishTime>02/18/2018 11:33:50</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_Feb25_2018.pdf">
+      <publishTime>02/25/2018 13:20:44</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_Jan07_2018.pdf">
+      <publishTime>01/23/2018 20:32:45</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_Jan14_2018.pdf">
+      <publishTime>01/23/2018 20:32:46</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_Jan22_2018.pdf">
+      <publishTime>01/23/2018 20:32:46</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_Jan28_2018.pdf">
+      <publishTime>01/28/2018 11:04:30</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_July08_2018.pdf">
+      <publishTime>07/09/2018 12:04:19</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_July15_2018.pdf">
+      <publishTime>07/26/2018 10:58:08</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_July22_2018.pdf">
+      <publishTime>07/26/2018 10:58:41</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_June03_2018.pdf">
+      <publishTime>06/03/2018 15:28:49</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_June10_2018.pdf">
+      <publishTime>06/28/2018 16:02:40</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_June17_2018.pdf">
+      <publishTime>06/28/2018 16:02:40</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_June24-2018.pdf">
+      <publishTime>06/28/2018 16:04:09</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_June24_2018.pdf">
+      <publishTime>06/28/2018 16:04:09</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_June2_2019.pdf">
+      <publishTime>06/05/2019 09:20:43</publishTime>
+    </File>
+    <File Include="_Bulletins/BUL_Mar04_2018.pdf">
+      <publishTime>03/07/2018 16:44:29</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_May05_2019.pdf">
+      <publishTime>05/09/2019 12:58:50</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_May06_2018.pdf">
+      <publishTime>06/10/2018 19:30:30</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_May12_2019.pdf">
+      <publishTime>05/16/2019 13:14:14</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_May13_2018.pdf">
+      <publishTime>06/10/2018 19:30:30</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_May20_2018.pdf">
+      <publishTime>06/10/2018 19:30:30</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_May26_2019.pdf">
+      <publishTime>05/28/2019 13:00:28</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_May27_2018.pdf">
+      <publishTime>06/10/2018 19:30:30</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_Oct14_2018.pdf">
+      <publishTime>10/26/2018 18:41:57</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_Oct21_2018.pdf">
+      <publishTime>10/26/2018 20:06:00</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_Oct7_2018.pdf">
+      <publishTime>10/26/2018 18:41:57</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_Sept16_2018.pdf">
+      <publishTime>10/26/2018 18:41:58</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_Sept23_2018.pdf">
+      <publishTime>10/26/2018 18:41:58</publishTime>
+    </File>
+    <File Include="_Bulletins/Bul_Sept30_2018.pdf">
+      <publishTime>10/26/2018 18:41:58</publishTime>
+    </File>
+    <File Include="_Images/Black_Joe.jpg">
+      <publishTime>04/25/2019 09:45:57</publishTime>
+    </File>
+    <File Include="_Images/blue-calendar.png">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Bulletin.jpg">
+      <publishTime>04/25/2019 09:45:57</publishTime>
+    </File>
+    <File Include="_Images/Christmas.png">
+      <publishTime>12/26/2019 15:33:23</publishTime>
+    </File>
+    <File Include="_Images/ChristmasBazaar.jpg">
+      <publishTime>10/31/2019 18:13:13</publishTime>
+    </File>
+    <File Include="_Images/Church.jpg">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/CornedBeef.jpg">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/DeaconJack.jpg">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Fashion.png">
+      <publishTime>12/26/2019 15:54:53</publishTime>
+    </File>
+    <File Include="_Images/FashionShow.jpg">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/FatherJustin.jpg">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Garden/Garden1.jpg">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Garden/Garden_1.png">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Garden/Garden_10.png">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Garden/Garden_11.png">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Garden/Garden_12.png">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Garden/Garden_13.png">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Garden/Garden_14.png">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Garden/Garden_2.png">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Garden/Garden_3.png">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Garden/Garden_4.png">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Garden/Garden_5.png">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Garden/Garden_6.png">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Garden/Garden_7.png">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Garden/Garden_8.png">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Garden/Garden_9.png">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Ham.png">
+      <publishTime>12/26/2019 15:36:00</publishTime>
+    </File>
+    <File Include="_Images/Links.jpg">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Meatloaf.jpg">
+      <publishTime>10/31/2019 18:13:13</publishTime>
+    </File>
+    <File Include="_Images/Ministries/altarServer.jpg">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Ministries/Bereavement.jpg">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Ministries/Choir.jpg">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Ministries/ChoirPic.jpg">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Ministries/Eucharistic Minister1.jpg">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Ministries/FoodPantry.jpg">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Ministries/Garden1.jpg">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Ministries/Healing.jpg">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Ministries/Lector.jpg">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Ministries/Minister_Sick.jpg">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Ministries/ParishClub.jpg">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Ministries/prayer1.jpg">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Ministries/PrayerChain.jpg">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Ministries/PrayerConnection.jpg">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Ministries/ReligiousEd.jpg">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Ministries/Sacristans.jpg">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Ministries/Usher.jpg">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/ParishClub/PC Officers.jpg">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/ParishClub/PC SwearingIn.jpg">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/profile.jpg">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/SingAlong.jpg">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Images/Spaghetti.png">
+      <publishTime>12/26/2019 15:51:44</publishTime>
+    </File>
+    <File Include="_PDFs/2020-01 SJOF Christmas Concert.pdf">
+      <publishTime>12/26/2019 15:19:08</publishTime>
+    </File>
+    <File Include="_PDFs/2020-01 SJOF Ham Dinner.pdf">
+      <publishTime>12/26/2019 15:18:20</publishTime>
+    </File>
+    <File Include="_PDFs/2020-02 SJOF Spaghetti Dinner.pdf">
+      <publishTime>12/26/2019 15:18:33</publishTime>
+    </File>
+    <File Include="_PDFs/2020-03-07 - Fashion Show Flier 2.pdf">
+      <publishTime>12/26/2019 15:18:49</publishTime>
+    </File>
+    <File Include="_PDFs/Calendar.pdf">
+      <publishTime>12/03/2019 18:27:19</publishTime>
+    </File>
+    <File Include="_PDFs/ChristmasBazaar.pdf">
+      <publishTime>10/31/2019 18:13:13</publishTime>
+    </File>
+    <File Include="_PDFs/CornedBeef.pdf">
+      <publishTime>10/16/2018 13:34:26</publishTime>
+    </File>
+    <File Include="_PDFs/FashionShow.pdf">
+      <publishTime>10/16/2018 13:34:26</publishTime>
+    </File>
+    <File Include="_PDFs/meatloaf.pdf">
+      <publishTime>10/31/2019 18:13:13</publishTime>
+    </File>
+    <File Include="_PDFs/meatloaf2.pdf">
+      <publishTime>10/28/2019 13:37:47</publishTime>
+    </File>
+    <File Include="_PDFs/SINGALONG.pdf">
+      <publishTime>10/16/2018 13:34:26</publishTime>
+    </File>
+    <File Include="_Scripts/MyScript.js">
+      <publishTime>12/26/2019 16:18:34</publishTime>
+    </File>
+    <File Include="_Scripts/video.js">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Styles/BasicStyles.css">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+    <File Include="_Styles/myStyles.css">
+      <publishTime>04/25/2019 09:45:58</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
