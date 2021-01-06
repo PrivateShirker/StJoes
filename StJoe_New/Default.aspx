@@ -30,6 +30,7 @@
                     <h1 id ="minMnu" class="mainSelection leftMarginHalfem">Ministries</h1>
                     <h1 id ="eventMnu" class="mainSelection leftMarginHalfem">Upcoming Events</h1>
                     <h1 id ="linksMnu" class="mainSelection leftMarginHalfem">Links</h1>
+                    <h1 id ="hymnsMnu" class="mainSelection leftMarginHalfem">Choir Hymns</h1>
 <%--                    <a class="mainSelection leftMarginHalfem" href="_pdfs/Calendar.pdf" target="_blank">Calendar</a>--%>
                </div>
 

@@ -33,6 +33,10 @@
         $('#mainArt').addClass('block').removeClass('noDisplay');
     });
 
+    $('#hymnsMnu').click(function () {
+        window.open('_Hymns/Jan Feb 2021.pdf', '')
+    });
+
     $('#bulMnu').click(function () {
         $('.myArt').addClass('noDisplay').removeClass('block');
         $('#bulArt').addClass('block').removeClass('noDisplay');
