@@ -48,19 +48,19 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>12/22/2020 11:55:01</publishTime>
     </File>
     <File Include="bin/StJoe_New.dll">
-      <publishTime>01/06/2021 15:23:08</publishTime>
+      <publishTime>01/16/2021 11:44:29</publishTime>
     </File>
     <File Include="bin/StJoe_New.pdb">
-      <publishTime>01/06/2021 15:23:08</publishTime>
+      <publishTime>01/16/2021 11:44:29</publishTime>
     </File>
     <File Include="bin/StJoe_New.xml">
-      <publishTime>01/06/2021 15:23:08</publishTime>
+      <publishTime>01/16/2021 11:44:29</publishTime>
     </File>
     <File Include="bulletin 12-13-2020.pdf">
       <publishTime>12/22/2020 12:08:56</publishTime>
     </File>
     <File Include="Default.aspx">
-      <publishTime>01/06/2021 15:14:44</publishTime>
+      <publishTime>01/16/2021 11:42:28</publishTime>
     </File>
     <File Include="packages.config">
       <publishTime>12/22/2020 11:55:01</publishTime>
@@ -73,6 +73,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     </File>
     <File Include="_Bulletins/Bulletin 1-10-2021.pdf">
       <publishTime>01/05/2021 12:54:00</publishTime>
+    </File>
+    <File Include="_Bulletins/bulletin 1-17-2021.pdf">
+      <publishTime>01/16/2021 11:41:00</publishTime>
     </File>
     <File Include="_Bulletins/Bulletin 1-3-2021.pdf">
       <publishTime>01/02/2021 13:02:00</publishTime>

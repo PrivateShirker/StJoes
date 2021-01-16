@@ -88,6 +88,7 @@
             <div class="floatLeft topPadding4em width50">
                 <div class="padding10 width60 autoMarginLeftRight whiteBorder" style="line-height:2em;">
                     <ul class="bullList bottomMargin2em autoMarginLeftRight">
+                        <li style="font-size:1.5em;margin-top:1.5em;"><a class="mySel" href="_Bulletins/Bulletin 1-17-2021.pdf" target="_blank">January 17, 2021</a></li>
                         <li style="font-size:1.5em;margin-top:1.5em;"><a class="mySel" href="_Bulletins/Bulletin 1-10-2021.pdf" target="_blank">January 10, 2021</a></li>
                         <li style="font-size:1.5em;margin-top:1.5em;"><a class="mySel" href="_Bulletins/Bulletin 1-3-2021.pdf" target="_blank">January 3, 2021</a></li>
                         <li style="font-size:1.5em;margin-top:1.5em;"><a class="mySel" href="_Bulletins/Bulletin 12-27-2020.pdf" target="_blank">December 27, 2020</a></li>
