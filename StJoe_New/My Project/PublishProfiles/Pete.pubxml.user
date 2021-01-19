@@ -48,19 +48,19 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>12/22/2020 11:55:01</publishTime>
     </File>
     <File Include="bin/StJoe_New.dll">
-      <publishTime>01/16/2021 11:44:29</publishTime>
+      <publishTime>01/19/2021 11:45:36</publishTime>
     </File>
     <File Include="bin/StJoe_New.pdb">
-      <publishTime>01/16/2021 11:44:29</publishTime>
+      <publishTime>01/19/2021 11:45:36</publishTime>
     </File>
     <File Include="bin/StJoe_New.xml">
-      <publishTime>01/16/2021 11:44:29</publishTime>
+      <publishTime>01/19/2021 11:45:36</publishTime>
     </File>
     <File Include="bulletin 12-13-2020.pdf">
       <publishTime>12/22/2020 12:08:56</publishTime>
     </File>
     <File Include="Default.aspx">
-      <publishTime>01/16/2021 11:42:28</publishTime>
+      <publishTime>01/19/2021 11:41:28</publishTime>
     </File>
     <File Include="packages.config">
       <publishTime>12/22/2020 11:55:01</publishTime>
@@ -69,13 +69,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/06/2021 15:20:23</publishTime>
     </File>
     <File Include="XMas2020.pdf">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Bulletins/Bulletin 1-10-2021.pdf">
       <publishTime>01/05/2021 12:54:00</publishTime>
     </File>
     <File Include="_Bulletins/bulletin 1-17-2021.pdf">
       <publishTime>01/16/2021 11:41:00</publishTime>
+    </File>
+    <File Include="_Bulletins/Bulletin 1-24-2021.pdf">
+      <publishTime>01/19/2021 11:35:11</publishTime>
     </File>
     <File Include="_Bulletins/Bulletin 1-3-2021.pdf">
       <publishTime>01/02/2021 13:02:00</publishTime>
@@ -132,184 +135,184 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/06/2021 15:13:33</publishTime>
     </File>
     <File Include="_Images/Black_Joe.jpg">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/blue-calendar.png">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Bulletin.jpg">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Christmas.png">
       <publishTime>01/02/2020 13:45:30</publishTime>
     </File>
     <File Include="_Images/Church.jpg">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/DeaconJack.jpg">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Fashion.png">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/FatherJustin.jpg">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Garden/Garden1.jpg">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Garden/Garden_1.png">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Garden/Garden_10.png">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Garden/Garden_11.png">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Garden/Garden_12.png">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Garden/Garden_13.png">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Garden/Garden_14.png">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Garden/Garden_2.png">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Garden/Garden_3.png">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Garden/Garden_4.png">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Garden/Garden_5.png">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Garden/Garden_6.png">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Garden/Garden_7.png">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Garden/Garden_8.png">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Garden/Garden_9.png">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Ham Dinner.png">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Ham.png">
       <publishTime>01/02/2020 13:45:30</publishTime>
     </File>
     <File Include="_Images/Links.jpg">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Ministries/altarServer.jpg">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Ministries/Bereavement.jpg">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Ministries/Choir.jpg">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Ministries/ChoirPic.jpg">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Ministries/Eucharistic Minister1.jpg">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Ministries/FoodPantry.jpg">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Ministries/Garden1.jpg">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Ministries/Healing.jpg">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Ministries/Lector.jpg">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Ministries/Minister_Sick.jpg">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Ministries/ParishClub.jpg">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Ministries/prayer1.jpg">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Ministries/PrayerChain.jpg">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Ministries/PrayerConnection.jpg">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Ministries/ReligiousEd.jpg">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Ministries/Sacristans.jpg">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Ministries/Usher.jpg">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/ParishClub/PC Officers.jpg">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/ParishClub/PC SwearingIn.jpg">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/profile.jpg">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Spaghetti.png">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/Virus.jpg">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Images/XMas2020.png">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_PDFs/2020-01 SJOF Christmas Concert.pdf">
       <publishTime>01/02/2020 13:45:30</publishTime>
     </File>
     <File Include="_PDFs/2020-01 SJOF Ham Dinner.pdf">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_PDFs/2020-02 SJOF Spaghetti Dinner.pdf">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_PDFs/2020-03-07 - Fashion Show Flier 2.pdf">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_PDFs/Calendar.pdf">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_PDFs/Virus.pdf">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_PDFs/XMas2020.pdf">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Scripts/MyScript.js">
       <publishTime>01/06/2021 15:18:22</publishTime>
     </File>
     <File Include="_Scripts/video.js">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Styles/BasicStyles.css">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
     <File Include="_Styles/myStyles.css">
-      <publishTime>12/22/2020 11:55:01</publishTime>
+      <publishTime>12/22/2020 11:55:00</publishTime>
     </File>
   </ItemGroup>
 </Project>
