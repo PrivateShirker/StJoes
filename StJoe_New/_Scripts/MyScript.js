@@ -3,22 +3,6 @@
         $(this).css('color', 'yellow');
     });
 
-    //$('#HamDinnerImg').click(function () {
-    //    window.open('_PDFs/2020-01 SJOF Ham Dinner.pdf', '')
-    //})
-
-    //$('#SpahgettiImg').click(function () {
-    //    window.open('_PDFs/2020-02 SJOF Spaghetti Dinner.pdf', '')
-    //})
-
-    $('#XMas2020Img').click(function () {
-        window.open('_PDFs/XMas2020.pdf', '')
-    })
-
-    $('#VirusPic').click(function () {
-        window.open('_PDFs/Virus.pdf', '')
-    });
-
     $('.mainSelection').mouseleave(function () {
         $('.mainSelection').css('color', 'red');
     });
@@ -33,10 +17,6 @@
         $('#mainArt').addClass('block').removeClass('noDisplay');
     });
 
-    $('#hymnsMnu').click(function () {
-        window.open('_Hymns/Jan Feb 2021.pdf', '')
-    });
-
     $('#bulMnu').click(function () {
         $('.myArt').addClass('noDisplay').removeClass('block');
         $('#bulArt').addClass('block').removeClass('noDisplay');
@@ -48,8 +28,7 @@
     });
 
     $('#eventMnu').click(function () {
-        $('.myArt').addClass('noDisplay').removeClass('block');
-        $('#eventArt').addClass('block').removeClass('noDisplay');
+        window.open('_PDFs/FashionShow.pdf', '');
     });
 
     $('#stationsMnu').click(function () {

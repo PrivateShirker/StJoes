@@ -12,7 +12,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-    <section class="pageWrapper whiteBorder" style="margin-bottom:2em;">
+    <section class="pageWrapper whiteBorder">
         <header class="topMargin2em autoMarginLeftRight">
             <div class="width90 autoMarginLeftRight">
                     <img class="inlineBlock whiteBorder width20" alt="Our Church" src="_Images/Church.jpg" />
@@ -28,10 +28,15 @@
                     <h1 id ="homeMnu" class="mainSelection">Home</h1>
                     <h1 id ="bulMnu" class="mainSelection leftMarginHalfem">Bulletins</h1>
                     <h1 id ="minMnu" class="mainSelection leftMarginHalfem">Ministries</h1>
-                    <h1 id ="eventMnu" class="mainSelection leftMarginHalfem">Upcoming Events</h1>
+<%--                    <h1 id ="eventMnu" class="mainSelection leftMarginHalfem">Upcoming Events</h1>--%>
+<%--                    <h1 id ="stationsMnu" class="mainSelection leftMarginHalfem">Stations of the Cross</h1>--%>
+<%--                    <h1 id ="musicMnu" class="mainSelection leftMarginHalfem">Spiritual Music</h1>--%>
                     <h1 id ="linksMnu" class="mainSelection leftMarginHalfem">Links</h1>
-                    <h1 id ="hymnsMnu" class="mainSelection leftMarginHalfem">Choir Hymns</h1>
-<%--                    <a class="mainSelection leftMarginHalfem" href="_pdfs/Calendar.pdf" target="_blank">Calendar</a>--%>
+<%--                    <a id ="homeMnu" class="mainSelection" href="Default.aspx">Home</a>
+                    <a id ="bulMnu" class="mainSelection leftMarginHalfem" href="Bulletins.aspx">Bulletins</a>
+                    <a class="mainSelection leftMarginHalfem" href="Ministries.aspx">Ministries</a>
+                    <a class="mainSelection leftMarginHalfem" href="Calendars.aspx">Calendars</a>
+                    <a class="mainSelection leftMarginHalfem" href="Links.aspx">Links</a>--%>
                </div>
 
             </nav>
@@ -52,13 +57,6 @@
                     </div>
 
                     <div class="clear"></div>
-
-<%--                    <div class="padding10 width75 autoMarginLeftRight">
-                        <img alt="Profile.jpg" src="_Images/Profile.jpg" class="width15 floatLeft topMargin2em" />
-                        <p class="width75 floatLeft topMargin2em aLeft" style="font-size:2em;">Father Francis Joseph O.C.D. Parochial Vicar</p>
-                    </div>
-
-                    <div class="clear"></div>--%>
 
                     <div class="padding10 width75 autoMarginLeftRight leftMargin30Per">
                         <img alt="Jack Lammers" src="_Images/DeaconJack.jpg" class="width15 floatLeft topMargin2em" />
@@ -88,10 +86,10 @@
             <div class="floatLeft topPadding4em width50">
                 <div class="padding10 width60 autoMarginLeftRight whiteBorder" style="line-height:2em;">
                     <ul class="bullList bottomMargin2em autoMarginLeftRight">
+                        <li style="font-size:1.5em;margin-top:1.5em;"><a class="mySel" href="_Bulletins/Bulletin 2-7-2021.pdf" target="_blank">February 7, 2021</a></li>
+                        <li style="font-size:1.5em;margin-top:1.5em;"><a class="mySel" href="_Bulletins/Bulletin 1-31-2021.pdf" target="_blank">January 31, 2021</a></li>
                         <li style="font-size:1.5em;margin-top:1.5em;"><a class="mySel" href="_Bulletins/Bulletin 1-24-2021.pdf" target="_blank">January 24, 2021</a></li>
                         <li style="font-size:1.5em;margin-top:1.5em;"><a class="mySel" href="_Bulletins/Bulletin 1-17-2021.pdf" target="_blank">January 17, 2021</a></li>
-                        <li style="font-size:1.5em;margin-top:1.5em;"><a class="mySel" href="_Bulletins/Bulletin 1-10-2021.pdf" target="_blank">January 10, 2021</a></li>
-                        <li style="font-size:1.5em;margin-top:1.5em;"><a class="mySel" href="_Bulletins/Bulletin 1-3-2021.pdf" target="_blank">January 3, 2021</a></li>
                     </ul>
                 </div>
             </div>
@@ -101,17 +99,6 @@
             </div>
 
             <div class="clear bottomMargin2em"></div>
-        </article>
-
-        <article id="eventArt" class="myArt width90 autoMarginLeftRight centerDiv noDisplay">
-            <p id="eventPara" class="pTitle topMargin1em underLine" style="font-size:2.5em;">Upcoming Events</p>
-
-            <div class="width75 autoMarginLeftRight topMargin4em">
-<%--                <img id="HamDinnerImg" alt="Ham Dinner.png" src="_Images/Ham Dinner.png" class="inlineBlock width30 leftMargin2em" style="cursor:pointer;" />--%>
-<%--                <img id="SpahgettiImg" alt="Spahgetti.png" src="_images/Spaghetti.png" class="inlineBlock width30 leftMargin2em" style="cursor:pointer;" />--%>
-                <img id="XMas2020Img" alt="Fashion.png" src="_images/XMas2020.png" class="inlineBlock width30 leftMargin2em" style="cursor:pointer;" />
-            </div>
-            <p class="pTitle topMargin1em bottomMargin1em centerText">Click on image to see full size.</p>
         </article>
 
         <article id="minArt" class="myArt width90 autoMarginLeftRight centerDiv noDisplay">

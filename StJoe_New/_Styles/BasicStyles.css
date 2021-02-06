@@ -746,10 +746,6 @@ td
     box-shadow:black 10px 10px 15px;
 }
 
-.whiteShadow
-{
-    box-shadow:white 10px 10px 15px;
-}
 .smallShadow 
 {
     box-shadow:black 7px 7px 10px;
