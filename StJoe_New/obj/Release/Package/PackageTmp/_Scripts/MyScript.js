@@ -3,6 +3,55 @@
         $(this).css('color', 'yellow');
     });
 
+    $("#HymnsMnu").click(function () {
+        $('.myArt').addClass('noDisplay').removeClass('block');
+        $('#hymnArt').addClass('block').removeClass('noDisplay');
+    })
+
+    $("#BeyondDays, #BeyondDays2").click(function () {
+        window.open('https://www.youtube.com/embed/vIX8_bgygg0', '');
+    });
+
+    //$("#EaglesWings").click(function () {
+    //    window.open('https://www.youtube.com/embed/MvpjxfWrjzY', '');
+    //});
+
+    //$("#HereIAm").click(function () {
+    //    window.open('https://www.youtube.com/embed/EcxOkht8w7c', '');
+    //});
+
+    $("#OpenEyes").click(function () {
+        window.open('https://www.youtube.com/embed/MtXQ-aWtzeU', '');
+    });
+
+    //$("#SaveYourPeople").click(function () {
+    //    window.open('https://www.youtube.com/embed/Ag_eBxNIfhw', '');
+    //});
+
+    //$("#BreadfortheWorld").click(function () {
+    //    window.open('https://www.youtube.com/embed/Oym_bNrQd_M', '');
+    //});
+
+    //$("#PeaceisFlowing").click(function () {
+    //    window.open('https://www.youtube.com/embed/VSO4V5egkGw', '');
+    //});
+
+    //$("#Transfiguration").click(function () {
+    //    window.open('https://www.youtube.com/embed/vJec8-pfVQk', '');
+    //});
+
+    //$("#ChristBeOurLight").click(function () {
+    //    window.open('https://www.youtube.com/embed/caA4sIXkD44', '');
+    //});
+
+    $("#SaveusOLord").click(function () {
+        window.open('https://www.youtube.com/embed/drRcv3co2kE', '');
+    });
+
+    $("#breadoflife").click(function () {
+        window.open('https://www.youtube.com/embed/pIERY7RMG6Y', '');
+    });
+
     $('.mainSelection').mouseleave(function () {
         $('.mainSelection').css('color', 'red');
     });

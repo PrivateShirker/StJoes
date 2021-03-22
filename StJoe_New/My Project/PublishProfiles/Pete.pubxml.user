@@ -7,6 +7,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <_PublishTargetUrl>C:\Users\pete\OneDrive\Published Apps\StJoe</_PublishTargetUrl>
+    <History>True|2021-03-22T23:37:45.6388430Z;True|2021-03-10T10:26:19.8299381-05:00;True|2021-03-10T10:21:21.1378467-05:00;True|2021-03-05T02:39:56.1215261-05:00;True|2021-03-05T02:01:43.1299933-05:00;</History>
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
@@ -49,16 +50,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/06/2021 15:53:20</publishTime>
     </File>
     <File Include="bin/StJoe_New.dll">
-      <publishTime>02/06/2021 16:38:32</publishTime>
+      <publishTime>03/10/2021 10:20:44</publishTime>
     </File>
     <File Include="bin/StJoe_New.pdb">
-      <publishTime>02/06/2021 16:38:32</publishTime>
+      <publishTime>03/10/2021 10:20:44</publishTime>
     </File>
     <File Include="bin/StJoe_New.xml">
-      <publishTime>02/06/2021 16:38:31</publishTime>
+      <publishTime>03/10/2021 10:20:44</publishTime>
     </File>
     <File Include="Default.aspx">
-      <publishTime>02/06/2021 16:33:43</publishTime>
+      <publishTime>03/22/2021 19:37:44</publishTime>
     </File>
     <File Include="packages.config">
       <publishTime>01/23/2018 20:22:28</publishTime>
@@ -75,8 +76,23 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="_Bulletins/bulletin 1-31-2021.pdf">
       <publishTime>02/06/2021 16:31:16</publishTime>
     </File>
+    <File Include="_Bulletins/bulletin 2-14-2021.pdf">
+      <publishTime>02/17/2021 11:55:00</publishTime>
+    </File>
+    <File Include="_Bulletins/Bulletin 2-21-2021.pdf">
+      <publishTime>02/17/2021 11:54:00</publishTime>
+    </File>
+    <File Include="_Bulletins/bulletin 2-28-2021.pdf">
+      <publishTime>02/23/2021 11:54:00</publishTime>
+    </File>
     <File Include="_Bulletins/Bulletin 2-7-2021.pdf">
       <publishTime>02/06/2021 16:37:00</publishTime>
+    </File>
+    <File Include="_Bulletins/Bulletin 3-14-2021.pdf">
+      <publishTime>03/10/2021 10:18:42</publishTime>
+    </File>
+    <File Include="_Bulletins/Bulletin 3-7-2021.pdf">
+      <publishTime>03/05/2021 01:55:00</publishTime>
     </File>
     <File Include="_Bulletins/Bul_Jan07_2018.pdf">
       <publishTime>01/23/2018 20:32:45</publishTime>
@@ -220,13 +236,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/28/2018 20:37:23</publishTime>
     </File>
     <File Include="_Scripts/MyScript.js">
-      <publishTime>01/28/2018 20:44:46</publishTime>
+      <publishTime>03/05/2021 02:39:13</publishTime>
     </File>
     <File Include="_Scripts/video.js">
       <publishTime>01/27/2018 23:46:23</publishTime>
     </File>
     <File Include="_Styles/BasicStyles.css">
-      <publishTime>01/23/2018 20:22:28</publishTime>
+      <publishTime>02/18/2021 13:18:44</publishTime>
     </File>
     <File Include="_Styles/myStyles.css">
       <publishTime>01/27/2018 23:49:57</publishTime>

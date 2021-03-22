@@ -63,6 +63,22 @@ td
     text-align:right;
 }
 
+.myHr {
+    border: thin double gold;
+    background-color: gold;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.redHr {
+    border: thin double red;
+    background-color: red;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
 .bold
 {
     font-weight:bold;
