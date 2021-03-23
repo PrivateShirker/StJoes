@@ -7,7 +7,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <_PublishTargetUrl>C:\Users\pete\OneDrive\Published Apps\StJoe</_PublishTargetUrl>
-    <History>True|2021-03-22T23:37:45.6388430Z;True|2021-03-10T10:26:19.8299381-05:00;True|2021-03-10T10:21:21.1378467-05:00;True|2021-03-05T02:39:56.1215261-05:00;True|2021-03-05T02:01:43.1299933-05:00;</History>
+    <History>True|2021-03-23T17:32:12.4116482Z;True|2021-03-23T13:29:24.0307782-04:00;True|2021-03-22T19:37:45.6388430-04:00;True|2021-03-10T10:26:19.8299381-05:00;True|2021-03-10T10:21:21.1378467-05:00;True|2021-03-05T02:39:56.1215261-05:00;True|2021-03-05T02:01:43.1299933-05:00;</History>
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
@@ -50,16 +50,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/06/2021 15:53:20</publishTime>
     </File>
     <File Include="bin/StJoe_New.dll">
-      <publishTime>03/10/2021 10:20:44</publishTime>
+      <publishTime>03/23/2021 13:32:12</publishTime>
     </File>
     <File Include="bin/StJoe_New.pdb">
-      <publishTime>03/10/2021 10:20:44</publishTime>
+      <publishTime>03/23/2021 13:32:12</publishTime>
     </File>
     <File Include="bin/StJoe_New.xml">
-      <publishTime>03/10/2021 10:20:44</publishTime>
+      <publishTime>03/23/2021 13:32:11</publishTime>
     </File>
     <File Include="Default.aspx">
-      <publishTime>03/22/2021 19:37:44</publishTime>
+      <publishTime>03/23/2021 13:32:09</publishTime>
     </File>
     <File Include="packages.config">
       <publishTime>01/23/2018 20:22:28</publishTime>
@@ -90,6 +90,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     </File>
     <File Include="_Bulletins/Bulletin 3-14-2021.pdf">
       <publishTime>03/10/2021 10:18:42</publishTime>
+    </File>
+    <File Include="_Bulletins/bulletin 3-21-2021.pdf">
+      <publishTime>03/23/2021 13:24:10</publishTime>
     </File>
     <File Include="_Bulletins/Bulletin 3-7-2021.pdf">
       <publishTime>03/05/2021 01:55:00</publishTime>

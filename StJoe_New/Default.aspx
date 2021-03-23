@@ -233,11 +233,9 @@
             <div class="floatLeft topPadding4em width50">
                 <div class="padding10 width60 autoMarginLeftRight whiteBorder" style="line-height:2em;">
                     <ul class="bullList bottomMargin2em autoMarginLeftRight">
+                        <li style="font-size:1.5em;margin-top:1.5em;"><a class="mySel" href="_Bulletins/Bulletin 3-21-2021.pdf" target="_blank">Palm Sunday</a></li>
                         <li style="font-size:1.5em;margin-top:1.5em;"><a class="mySel" href="_Bulletins/Bulletin 3-14-2021.pdf" target="_blank">March 14, 2021</a></li>
                         <li style="font-size:1.5em;margin-top:1.5em;"><a class="mySel" href="_Bulletins/Bulletin 3-7-2021.pdf" target="_blank">March 7, 2021</a></li>
-                        <li style="font-size:1.5em;margin-top:1.5em;"><a class="mySel" href="_Bulletins/Bulletin 2-28-2021.pdf" target="_blank">February 28, 2021</a></li>
-                        <li style="font-size:1.5em;margin-top:1.5em;"><a class="mySel" href="_Bulletins/Bulletin 2-21-2021.pdf" target="_blank">February 21, 2021</a></li>
-                        <li style="font-size:1.5em;margin-top:1.5em;"><a class="mySel" href="_Bulletins/Bulletin 2-14-2021.pdf" target="_blank">February 14, 2021</a></li>
                     </ul>
                 </div>
             </div>
