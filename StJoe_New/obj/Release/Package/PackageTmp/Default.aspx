@@ -28,7 +28,7 @@
                     <h1 id ="homeMnu" class="mainSelection">Home</h1>
                     <h1 id ="bulMnu" class="mainSelection leftMarginHalfem">Bulletins</h1>
                     <h1 id ="minMnu" class="mainSelection leftMarginHalfem">Ministries</h1>
-                    <h1 id ="HymnsMnu" class="mainSelection leftMarginHalfem">Lenten Hymns</h1>
+<%--                    <h1 id ="HymnsMnu" class="mainSelection leftMarginHalfem">Lenten Hymns</h1>--%>
 <%--                    <h1 id ="eventMnu" class="mainSelection leftMarginHalfem">Upcoming Events</h1>--%>
 <%--                    <h1 id ="stationsMnu" class="mainSelection leftMarginHalfem">Stations of the Cross</h1>--%>
 <%--                    <h1 id ="musicMnu" class="mainSelection leftMarginHalfem">Spiritual Music</h1>--%>
@@ -89,153 +89,15 @@
             </div>
         </article>
 
-        <article id="hymnArt" class="myArt width90 autoMarginLeftRight centerDiv noDisplay">
-
-        <%--    <section class="width60 autoMarginLeftRight backMoccasin whiteBorder centerDiv" style="padding-bottom:2em;">
-                <p class="pTitle topMargin1em redText">Hymns for 2/21/2021 1<sup class="redText">st</sup> Sunday of Lent</p>
-                <hr class="redHr" />
-                <ul>
-                    <li class="topMargin2em">
-                        <span id="BeyondDays" class="underLine maroonText fontSize2em" style="cursor:pointer;">Gathering: #121 Beyond the Days Verses 1, 2</span>
-                    </li>
-                    <li class="topMargin2em">
-                        <span id="EaglesWings" class="underLine maroonText fontSize2em" style="cursor:pointer;">Offertory: #437 On Eagles Wings</span>
-                    </li>
-                    <li class="topMargin2em">
-                        <span id="OpenEyes" class="underLine maroonText fontSize2em" style="cursor:pointer;">Communion: #393 Open My Eyes</span>
-                    </li>
-                    <li class="topMargin2em">
-                        <span id="HereIAm" class="underLine maroonText fontSize2em" style="cursor:pointer;">Communion: #383 Here I am Lord</span>
-                    </li>
-                    <li class="topMargin2em">
-                        <span id="BeyondDays2" class="underLine maroonText fontSize2em" style="cursor:pointer;">Closing: #121 Beyond the Days Verses 3, 4</span>
-                    </li>
-                </ul>
-            </section>--%>
-
-<%--            <section class="width60 autoMarginLeftRight topMargin2em backMoccasin whiteBorder centerDiv" style="padding-bottom:2em;">
-                <p class="pTitle topMargin1em redText">Hymns for 2/28/2021 2<sup class="redText">nd</sup> Sunday of Lent</p>
-                <hr class="redHr" />
-                <ul>
-                    <li class="topMargin2em">
-                        <span id="SaveYourPeople" class="underLine maroonText fontSize2em" style="cursor:pointer;">Gathering: #125 Save Your People</span>
-                    </li>
-                    <li class="topMargin2em">
-                        <span id="BreadfortheWorld" class="underLine maroonText fontSize2em" style="cursor:pointer;">Offertory: #341 Bread for the World</span>
-                    </li>
-                    <li class="topMargin2em">
-                        <span id="PeaceisFlowing" class="underLine maroonText fontSize2em" style="cursor:pointer;">Communion: #526 Peace is Flowing</span>
-                    </li>
-                    <li class="topMargin2em">
-                        <span id="Transfiguration" class="underLine maroonText fontSize2em" style="cursor:pointer;">Communion: #130 Transfiguration</span>
-                    </li>
-                    <li class="topMargin2em">
-                        <span id="ChristBeOurLight" class="underLine maroonText fontSize2em" style="cursor:pointer;">Closing: #587 Christ Be Our Light</span>
-                    </li>
-                </ul>
-            </section>--%>
-
-<%--            <section class="width60 autoMarginLeftRight topMargin2em backMoccasin whiteBorder centerDiv" style="padding-bottom:2em;">
-                <p class="pTitle topMargin1em redText">Hymns for 3/7/2021 3<sup class="redText">rd</sup> Sunday of Lent</p>
-                <hr class="redHr" />
-                <ul>
-                    <li class="topMargin2em">
-                        <span id="SaveusOLord" class="underLine maroonText fontSize2em" style="cursor:pointer;">Gathering: #648 Save Us O Lord</span>
-                    </li>
-                    <li class="topMargin2em">
-                        <span class="underLine maroonText fontSize2em" style="cursor:pointer;">Offertory: : #471 Fly Like a Bird</span>
-                    </li>
-                    <li class="topMargin2em">
-                        <span id="OpenEyes" class="underLine maroonText fontSize2em" style="cursor:pointer;">Communion: #393 Open My Eyes</span>
-                    </li>
-                    <li class="topMargin2em">
-                        <span id="breadoflife" class="underLine maroonText fontSize2em" style="cursor:pointer;">Communion: #325 I am the Bread of Life</span>
-                    </li>
-                    <li class="topMargin2em">
-                        <span id="BeyondDays2" class="underLine maroonText fontSize2em" style="cursor:pointer;">Closing: #121 Beyond the Days </span>
-                    </li>
-                </ul>
-            </section>--%>
-
-<%--            <section class="width60 autoMarginLeftRight topMargin2em backMoccasin whiteBorder centerDiv" style="padding-bottom:2em;">
-                <p class="pTitle topMargin1em redText">Hymns for 3/14/2021 4<sup class="redText">th</sup> Sunday of Lent</p>
-                <hr class="redHr" />
-                <ul>
-                    <li class="topMargin2em">
-                        <span class="underLine maroonText fontSize2em" style="cursor:pointer;">Gathering: #589 I Want to Walk as a Child of Light</span>
-                    </li>
-                    <li class="topMargin2em">
-                        <span class="underLine maroonText fontSize2em" style="cursor:pointer;">Offertory: : #728 Lead Me, Lord</span>
-                    </li>
-                    <li class="topMargin2em">
-                        <span class="underLine maroonText fontSize2em" style="cursor:pointer;">Communion: #433 Amazing Grace</span>
-                    </li>
-                    <li class="topMargin2em">
-                        <span class="underLine maroonText fontSize2em" style="cursor:pointer;">Communion: #372 Irish Blessing</span>
-                    </li>
-                    <li class="topMargin2em">
-                        <span class="underLine maroonText fontSize2em" style="cursor:pointer;">Closing: #587 Christ Be Our Light  verses 3,4</span>
-                    </li>
-                </ul>
-            </section>
-
-            <section class="width60 autoMarginLeftRight topMargin2em backMoccasin whiteBorder centerDiv" style="padding-bottom:2em;">
-                <p class="pTitle topMargin1em redText">Hymns for 3/21/2021 5<sup class="redText">th</sup> Sunday of Lent</p>
-                <hr class="redHr" />
-                <ul>
-                    <li class="topMargin2em">
-                        <span class="underLine maroonText fontSize2em" style="cursor:pointer;">Gathering: #382 The Summons verses 4,5</span>
-                    </li>
-                    <li class="topMargin2em">
-                        <span class="underLine maroonText fontSize2em" style="cursor:pointer;">Offertory: : #462 Eye Has Not Seen</span>
-                    </li>
-                    <li class="topMargin2em">
-                        <span class="underLine maroonText fontSize2em" style="cursor:pointer;">Communion: #527 Prayer of St. Francis</span>
-                    </li>
-                    <li class="topMargin2em">
-                        <span class="underLine maroonText fontSize2em" style="cursor:pointer;">Communion: #356 One Love Released</span>
-                    </li>
-                    <li class="topMargin2em">
-                        <span class="underLine maroonText fontSize2em" style="cursor:pointer;">Closing: #397 Christ Be Beside Me (to the tune of Morning Has Broken)</span>
-                    </li>
-                </ul>
-            </section>--%>
-
-            <section class="width60 autoMarginLeftRight topMargin2em bottomMargin2em backMoccasin whiteBorder centerDiv" style="padding-bottom:2em;">
-                <p class="pTitle topMargin1em redText">Hymns for 3/28/2021 Palm Sunday</p>
-                <hr class="redHr" />
-                <ul>
-                    <li class="topMargin2em">
-                        <span class="underLine maroonText fontSize2em" style="cursor:pointer;">Gathering: #137 Hosanna To the Son of David</span>
-                    </li>
-                    <li class="topMargin2em">
-                        <span class="underLine maroonText fontSize2em" style="cursor:pointer;">Psalm: pg 98: My God, My God, why have you abandoned me?</span>
-                    </li>
-                    <li class="topMargin2em">
-                        <span class="underLine maroonText fontSize2em" style="cursor:pointer;">Offertory: : #469 Holy Darkness</span>
-                    </li>
-                    <li class="topMargin2em">
-                        <span class="underLine maroonText fontSize2em" style="cursor:pointer;">Communion: #575 Worthy is the Lamb</span>
-                    </li>
-                    <li class="topMargin2em">
-                        <span class="underLine maroonText fontSize2em" style="cursor:pointer;">Communion: : #146 Were You There?</span>
-                    </li>
-                    <li class="topMargin2em">
-                        <span class="underLine maroonText fontSize2em" style="cursor:pointer;">Closing: #411 Jesus Remember Me</span>
-                    </li>
-                </ul>
-            </section>
-
-        </article>
-
         <article id="bulArt" class="myArt width90 autoMarginLeftRight centerDiv noDisplay">
             <p class="pTitle topMargin1em underLine">Weekly Bulletins</p>
             <div class="floatLeft topPadding4em width50">
                 <div class="padding10 width60 autoMarginLeftRight whiteBorder" style="line-height:2em;">
                     <ul class="bullList bottomMargin2em autoMarginLeftRight">
+                        <li style="font-size:1.5em;margin-top:1.5em;"><a class="mySel" href="_Bulletins/Bulletin 4-18-2021.pdf" target="_blank">April 18,2021</a></li>
+                        <li style="font-size:1.5em;margin-top:1.5em;"><a class="mySel" href="_Bulletins/Bulletin 4-11-2021.pdf" target="_blank">April 11,2021</a></li>
+                        <li style="font-size:1.5em;margin-top:1.5em;"><a class="mySel" href="_Bulletins/Bulletin 4-4-2021.pdf" target="_blank">Easter Sunday</a></li>
                         <li style="font-size:1.5em;margin-top:1.5em;"><a class="mySel" href="_Bulletins/Bulletin 3-21-2021.pdf" target="_blank">Palm Sunday</a></li>
-                        <li style="font-size:1.5em;margin-top:1.5em;"><a class="mySel" href="_Bulletins/Bulletin 3-14-2021.pdf" target="_blank">March 14, 2021</a></li>
-                        <li style="font-size:1.5em;margin-top:1.5em;"><a class="mySel" href="_Bulletins/Bulletin 3-7-2021.pdf" target="_blank">March 7, 2021</a></li>
                     </ul>
                 </div>
             </div>
