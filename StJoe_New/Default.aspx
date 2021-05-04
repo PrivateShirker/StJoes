@@ -68,21 +68,13 @@
                 </div>
 
                 <div>
-                    <div class="floatLeft width45 centerText padding10 topMargin2em yellowBorder">
+                    <div class="width45 autoMarginLeftRight centerText padding10 topMargin2em yellowBorder">
                         <p>Mass Schedule</p>
                         <p>Saturday Vigil ............4:00 PM</p>
                         <p>Sunday ....................9:30 AM</p>
                         <p>Weekdays: Tues. & Wed......9:30 AM</p>
                         <p>Penance: Saturday.........3:30 PM</p>
                     </div>
-
-                    <div class="floatLeft width40 leftMargin3em left padding10 topMargin2em yellowBorder">
-                        <p>
-                            Stations of the Cross Will be prayed every Friday in Lent at 6:00 PM.<br />Following will be the Adoration of the Blessed Sacrament and Benediction.
-                        </p>
-                    </div>
-
-                    <div class="clear"></div>
                 </div>
 
                 <div class="clear bottomMargin1em"></div>
@@ -94,10 +86,10 @@
             <div class="floatLeft topPadding4em width50">
                 <div class="padding10 width60 autoMarginLeftRight whiteBorder" style="line-height:2em;">
                     <ul class="bullList bottomMargin2em autoMarginLeftRight">
+                        <li style="font-size:1.5em;margin-top:1.5em;"><a class="mySel" href="_Bulletins/Bulletin 5-9-2021.pdf" target="_blank">May 9,2021</a></li>
+                        <li style="font-size:1.5em;margin-top:1.5em;"><a class="mySel" href="_Bulletins/Bulletin 5-2-2021.pdf" target="_blank">May 2,2021</a></li>
+                        <li style="font-size:1.5em;margin-top:1.5em;"><a class="mySel" href="_Bulletins/Bulletin 4-25-2021.pdf" target="_blank">April 25,2021</a></li>
                         <li style="font-size:1.5em;margin-top:1.5em;"><a class="mySel" href="_Bulletins/Bulletin 4-18-2021.pdf" target="_blank">April 18,2021</a></li>
-                        <li style="font-size:1.5em;margin-top:1.5em;"><a class="mySel" href="_Bulletins/Bulletin 4-11-2021.pdf" target="_blank">April 11,2021</a></li>
-                        <li style="font-size:1.5em;margin-top:1.5em;"><a class="mySel" href="_Bulletins/Bulletin 4-4-2021.pdf" target="_blank">Easter Sunday</a></li>
-                        <li style="font-size:1.5em;margin-top:1.5em;"><a class="mySel" href="_Bulletins/Bulletin 3-21-2021.pdf" target="_blank">Palm Sunday</a></li>
                     </ul>
                 </div>
             </div>

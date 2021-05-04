@@ -196,12 +196,11 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
     <Content Include="_PDFs\FashionShow.pdf" />
-    <Content Include="_Bulletins\Bulletin 3-7-2021.pdf" />
-    <Content Include="_Bulletins\Bulletin 3-14-2021.pdf" />
-    <Content Include="_Bulletins\bulletin 3-21-2021.pdf" />
     <Content Include="_Bulletins\Bulletin 4-4-2021.pdf" />
-    <Content Include="_Bulletins\bulletin 4-11-2021.pdf" />
     <Content Include="_Bulletins\bulletin 4-18-2021.pdf" />
+    <Content Include="_Bulletins\Bulletin 4-25-2021.pdf" />
+    <Content Include="_Bulletins\Bulletin 5-2-2021.pdf" />
+    <Content Include="_Bulletins\Bulletin 5-9-2021.pdf" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

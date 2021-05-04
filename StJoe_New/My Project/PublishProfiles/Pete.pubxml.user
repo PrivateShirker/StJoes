@@ -7,7 +7,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <_PublishTargetUrl>C:\Users\pete\OneDrive\Published Apps\StJoe</_PublishTargetUrl>
-    <History>True|2021-04-15T18:48:22.0843536Z;True|2021-04-11T17:39:00.7746776-04:00;True|2021-04-11T17:36:17.6361741-04:00;True|2021-04-11T17:32:48.2525674-04:00;True|2021-04-11T17:30:36.1293028-04:00;True|2021-03-30T13:22:14.9357139-04:00;True|2021-03-23T13:32:12.4116482-04:00;True|2021-03-23T13:29:24.0307782-04:00;True|2021-03-22T19:37:45.6388430-04:00;True|2021-03-10T10:26:19.8299381-05:00;True|2021-03-10T10:21:21.1378467-05:00;True|2021-03-05T02:39:56.1215261-05:00;True|2021-03-05T02:01:43.1299933-05:00;</History>
+    <History>True|2021-05-04T18:16:40.9202605Z;True|2021-04-23T22:55:37.2810241-04:00;True|2021-04-15T14:48:22.0843536-04:00;True|2021-04-11T17:39:00.7746776-04:00;True|2021-04-11T17:36:17.6361741-04:00;True|2021-04-11T17:32:48.2525674-04:00;True|2021-04-11T17:30:36.1293028-04:00;True|2021-03-30T13:22:14.9357139-04:00;True|2021-03-23T13:32:12.4116482-04:00;True|2021-03-23T13:29:24.0307782-04:00;True|2021-03-22T19:37:45.6388430-04:00;True|2021-03-10T10:26:19.8299381-05:00;True|2021-03-10T10:21:21.1378467-05:00;True|2021-03-05T02:39:56.1215261-05:00;True|2021-03-05T02:01:43.1299933-05:00;</History>
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
@@ -50,16 +50,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/06/2021 15:53:20</publishTime>
     </File>
     <File Include="bin/StJoe_New.dll">
-      <publishTime>04/15/2021 14:47:54</publishTime>
+      <publishTime>05/04/2021 14:16:03</publishTime>
     </File>
     <File Include="bin/StJoe_New.pdb">
-      <publishTime>04/15/2021 14:47:54</publishTime>
+      <publishTime>05/04/2021 14:16:03</publishTime>
     </File>
     <File Include="bin/StJoe_New.xml">
-      <publishTime>04/15/2021 14:47:54</publishTime>
+      <publishTime>05/04/2021 14:16:03</publishTime>
     </File>
     <File Include="Default.aspx">
-      <publishTime>04/15/2021 14:47:51</publishTime>
+      <publishTime>05/04/2021 14:16:01</publishTime>
     </File>
     <File Include="packages.config">
       <publishTime>01/23/2018 20:22:28</publishTime>
@@ -103,8 +103,17 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="_Bulletins/bulletin 4-18-2021.pdf">
       <publishTime>04/15/2021 14:46:00</publishTime>
     </File>
+    <File Include="_Bulletins/Bulletin 4-25-2021.pdf">
+      <publishTime>04/23/2021 22:53:00</publishTime>
+    </File>
     <File Include="_Bulletins/Bulletin 4-4-2021.pdf">
       <publishTime>03/30/2021 13:17:00</publishTime>
+    </File>
+    <File Include="_Bulletins/Bulletin 5-2-2021.pdf">
+      <publishTime>05/04/2021 14:09:00</publishTime>
+    </File>
+    <File Include="_Bulletins/Bulletin 5-9-2021.pdf">
+      <publishTime>05/04/2021 14:08:00</publishTime>
     </File>
     <File Include="_Bulletins/Bul_Jan07_2018.pdf">
       <publishTime>01/23/2018 20:32:45</publishTime>
